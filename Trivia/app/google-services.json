@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "852326786970",
+    "firebase_url": "https://rapido2-5d955.firebaseio.com",
+    "project_id": "rapido2-5d955",
+    "storage_bucket": "rapido2-5d955.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:852326786970:android:449a9639b6577fd7",
+        "android_client_info": {
+          "package_name": "com.trivia.andresvd.trivia"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "852326786970-baj5oa7fu735be5o0fnb4lrvo598s22c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_59LkRBRvRTjuUd7lC52qzZOF0eRBFww"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
